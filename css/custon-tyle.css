@@ -1,0 +1,22 @@
+.card-extras {
+  margin-bottom: 15px;
+}
+.role_style {
+  position: absolute;
+  right: 0;
+  top: 4rem;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.font-styling {
+  text-align: center;
+  font-weight: bolder;
+  padding: 15px 0;
+  font-size: xx-large;
+}
+.driversspam {
+  margin-bottom: 10px;
+  font-size: xx-large;
+  padding-bottom: 20px;
+}
